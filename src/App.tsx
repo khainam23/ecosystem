@@ -1,9 +1,9 @@
-import Footer from './components/layout/Footer'
-import Header from './components/layout/Header'
-import About from './sections/About'
-import Hero from './sections/Hero'
-import Projects from './sections/Projects'
-import Workflow from './sections/Workflow'
+import Footer from "./components/layout/Footer";
+import Header from "./components/layout/Header";
+import About from "./sections/About";
+import Hero from "./sections/Hero";
+import Projects from "./sections/Projects";
+import Workflow from "./sections/Workflow";
 
 export default function App() {
   return (
@@ -17,5 +17,5 @@ export default function App() {
       </main>
       <Footer />
     </div>
-  )
+  );
 }
