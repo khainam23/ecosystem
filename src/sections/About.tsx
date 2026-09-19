@@ -5,5 +5,5 @@ export default function About() {
       <h2 className="text-2xl font-semibold text-gray-900">About</h2>
       {/* TODO */}
     </section>
-  )
+  );
 }

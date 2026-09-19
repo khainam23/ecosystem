@@ -1,0 +1,7 @@
+{
+  "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-classnames"],
+  "tailwindFunctions": ["cn", "clsx", "cva", "tw"],
+  "customFunctions": ["cn", "clsx", "cva"],
+  "printWidth": 100,
+  "endingPosition": "absolute"
+}

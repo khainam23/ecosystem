@@ -5,5 +5,5 @@ export default function Projects() {
       <h2 className="text-2xl font-semibold text-gray-900">Projects</h2>
       {/* TODO: render từ projects.json qua useProjects() */}
     </section>
-  )
+  );
 }

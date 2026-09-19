@@ -5,5 +5,5 @@ export default function Workflow() {
       <h2 className="text-2xl font-semibold text-gray-900">Workflow</h2>
       {/* TODO: render từ workflow.json */}
     </section>
-  )
+  );
 }
